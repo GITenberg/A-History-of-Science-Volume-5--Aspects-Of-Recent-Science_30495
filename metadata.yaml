@@ -1,0 +1,32 @@
+_repo: A-History-of-Science-Volume-5--Aspects-Of-Recent-Science_30495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
+  - agent_name: Williams, Edward Huntington
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '699'
+    url: http://www.gutenberg.org/2009/agents/699
+description: ''
+gutenberg_issued: '2009-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- History'
+- !lcc 'Q'
+title: 'A History of Science, Volume 5: Aspects Of Recent Science'
+url: http://www.gutenberg.org/ebooks/30495
